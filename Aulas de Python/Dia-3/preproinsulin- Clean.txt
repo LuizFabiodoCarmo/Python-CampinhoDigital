@@ -1,0 +1,4 @@
+ "Duplicamos o primeiro arquivo e, executamos uma limpeza manual do código, tirando o ORIGIN, espaços,símbolos e números."
+  
+
+    malwrllpllallalwgpdpaaafvnghlcgshlvealylvcgergffytpktrreaedlqvggvelgggpgagslqplalegslqkrgiveqcctsicslyqlenycn
