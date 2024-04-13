@@ -1,6 +1,6 @@
-#°Foram ao todo 6 dias de imersão em lógica de Python e criação de código na IDE Cloud9 da AWS.
+ <title>°Foram ao todo 6 dias de imersão em lógica de Python e criação de código na IDE Cloud9 da AWS.<br />
 °Essa aula assim como todas as outras, foram executadas no emulador desenvolvido pela própria AWS, que permite ao 
-  aluno desfrutar de todos os recursos disponibilizados pela AWS.
+  aluno desfrutar de todos os recursos disponibilizados pela AWS.</title>
   
 °A baixo um vídeo da aula extra de Python.
 
